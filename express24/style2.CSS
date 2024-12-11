@@ -1,0 +1,51 @@
+.kattafayl{
+    width: 100%;
+    height:80px;
+    background-color: rgb(248, 250, 250);  
+    display: flex;
+}
+.exp{
+    width:170px ;
+    height: 50px;
+    margin-top: 10px;
+}
+.matn{
+    width: 370px;
+    height: 60px;
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: rgb(248, 250, 250);
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid rgb(218, 216, 216);
+    font-size: 20px;
+}
+.topish{
+    width: 100px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(241, 245, 30);
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid rgb(218, 216, 216);
+    font-size: 20px;
+}
+.lokat{
+    width: 210px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: rgb(248, 250, 250);
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid rgb(218, 216, 216);
+    font-size: 20px;
+}
+.orqaga{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(248, 250, 250) ;
+    margin-left: 300px;
+    margin-top: 100px;
+}

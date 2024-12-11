@@ -1,0 +1,351 @@
+body {
+    background-color: aliceblue;
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.quti {
+    width: 100%;
+    height: 220px;
+    background-color: aliceblue;
+    display: flex;
+    gap: 14px;
+}
+
+.quti1 {
+    width: 100%;
+    height: 240px;
+    background-color: aliceblue;
+    display: flex;
+    gap: 14px;
+}
+
+.quti2 {
+    width: 100%;
+    height: 40px;
+    background-color: aliceblue;
+    display: flex;
+    gap: 5px;
+    margin-left: 240px;
+}
+.tugma{
+    width: 130px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: rgb(210, 221, 233);
+    text-align: center;
+    border: 1px solid  rgb(210, 221, 233);
+  border: 1px solid white;
+}
+.yozuv{
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.kod {
+    width: 100px;
+    height: 45px;
+    margin-left: 40px;
+    background-color: rgb(213, 225, 236);
+    margin-left: 90px;
+}
+
+.box1 img {
+    width: 178.36px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-left: 240px;
+    margin-top: 40px;
+}
+
+.box2 img {
+    width: 178.36px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.box3 img {
+    width: 178.36px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.box4 img {
+    width: 178.36px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.box5 img {
+    width: 178.36px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.box6 img {
+    width: 178.36px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.box7 img {
+    width: 216.832px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-left: 240px;
+}
+
+.box8 img {
+    width: 216.832px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-top: px;
+}
+
+.box9 img {
+    width: 216.832px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-top: px;
+}
+
+.box10 img {
+    width: 216.832px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-top: px;
+}
+
+.box11 img {
+    width: 216.832px;
+    height: 121.09px;
+    border-radius: 10px;
+    margin-top: px;
+}
+
+.box7 p {
+    font-size: 30px;
+    margin-left: 240px;
+}
+
+.box7 h4 {
+    margin-left: 250px;
+}
+
+.box7 i {
+    margin-left: 250px;
+}
+
+.text {
+    width: 172px;
+    height: 49.05px;
+    margin-top: 20px;
+} 
+
+.text1 {
+    width: 358.2px;
+    height: 48px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border: 1px solid black;
+}
+
+.text3 {
+    width: 1609px;
+    height: 78px;
+    background-color: aliceblue;
+    display: flex;
+    border: 1px;
+}
+
+.qidr {
+    width: 358.2px;
+    height: 48px;
+    border-radius: 20px;
+    margin-top: -1px;
+    margin-left: -1px;
+    border: 1px solid black;
+}
+
+.nayti {
+    width: 81.8px;
+    height: 50px;
+    background-color: yellow;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.top {
+    margin-top: 10px;
+}
+
+.lokat {
+    width: 280px;
+    height: 48px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 20px;
+}
+
+.box1 p {
+    margin-left: 240px;
+    font-size: 30px;
+    display: ;
+}
+
+
+
+.box6 p {
+    font-size: 20px;
+}
+
+.quti3 {
+    width: 100%;
+    height: 350px;
+    background-color: aliceblue;
+    display: flex;
+    gap: 10px;
+    margin-top: 50px;
+    margin-left: 265px;
+}
+
+.disk {
+    width: 352px;
+    height: 280px;
+    border-radius: 10px;
+
+    border-radius: 10PX;
+    -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+
+.disk img {
+    width: 350px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.disk button {
+    width: 60px;
+    height: 20px;
+    border-radius: 7px;
+    
+   
+    background-color: azure;
+}
+.kattafile{
+     
+}
+.quti4{
+    width: 180px;
+    height: 340px;
+    background-color:azure;
+    gap: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+.kattafile{
+    width: 100%;
+    height: 340px; 
+    background-color: aliceblue;
+    margin-left: 250px;
+    display: flex;
+    margin-top: 10px;
+    gap: 20px;
+
+}
+.yoz{
+    margin-left: 250px;
+}
+.quti4 img{
+     width: 164px;
+     height: 164px;
+     margin: 8px;
+     border-radius: 8px;
+         
+     }
+     .btn{
+        width: 156px;
+        height: 40px;
+        border-radius: 10px;
+        margin-top: 70px;
+        margin-left: 11px;
+        border: 1px solid white;
+        background-color: aliceblue;
+     }
+     .song{
+        width: 100%;
+        height: 320px;
+        display: flex;
+        margin-left: 250px;
+        margin-top: 20px;
+        gap: 20px;
+     }
+     .song1{
+        width: 350px;
+        height: 310px;
+        background-color: azure;
+        
+
+     }
+     .song img{
+        width: 350px;
+        height: 200px;
+        border-radius: 10px 10px 0px 0px;
+     }
+     .size{
+        width: 60px;
+        height: 20px;
+        border-radius: 10px;
+        border: 1px solid white;
+        background-color: rgb(243, 243, 235);
+     }
+     .button{
+        border: 1px solid white;
+     }
+     .size2{
+        width: 1100px;
+        height: 48px;
+        background-color: rgb(224, 226, 228);
+        border: 1px solid white;
+        margin-top: 20px;
+        margin-left: 250px;
+        border-radius: 10px;
+     }
+     .quti5{
+        width: 100%;
+        height: 100px;
+        margin-left: 250px;
+        margin-top :50px;
+        display: flex;
+     }
+     .qut6{
+        width: 200px;
+        height: 20px;              
+     }
+     .quti6{
+        width: 100%;
+        height: 200px;
+        margin-left: 250px;
+        
+        display: flex;
+     }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
